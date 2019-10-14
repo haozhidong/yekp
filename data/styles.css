@@ -53,6 +53,13 @@
 }
 .line {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .table_cell {
 }
 .marker {
@@ -94,7 +101,7 @@
 ._形状 {
 }
 .refs-webm-wechat {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -117,4 +124,11 @@
 .text_field {
   color:#000000;
   text-align:left;
+}
+.refs-design-apple {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.icon {
 }
